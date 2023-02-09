@@ -1,34 +1,34 @@
 ---
 banner:
-  title: Let us solve your critical website development challenges
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Quam nihil enim maxime corporis cumque <br/> totam aliquid nam sint inventore optio modi neque laborum officiis necessitatibus
-  image: /images/banner-art.svg
+  title: Clyde and Oak Capital
+  content: Providing World Class Professional Services to African Businesses in Investment, Law, Finance and other Allied Sectors
+  image: /images/banner.jpg
   button:
     label: "Contact Us"
     link: "/contact"
 
 # feature
 feature: 
-  title: Something You Need To Know
+  title: Professional Services
   features:
-  - name: "Clean Code"
+  - name: "Managing Consulting"
     icon: "/images/code.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Object Oriented"
+    content: "We work with company executives and business leaders to identify organisational challeneges gather and analyze information, and develop and implement solution"
+  - name: "Data Services"
     icon: "/images/oop.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "24h Service"
-    icon: "/images/user-clock.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Value for Money"
-    icon: "/images/love.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Faster Response"
-    icon: "/images/speedometer.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
-  - name: "Cloud Support"
-    icon: "/images/cloud.svg"
-    content: "Lorem ipsum dolor sit amet consectetur adipisicing elit quam nihil"
+    content: "We deliver business and financial information, news and insight to customers worldwide"
+  - name: "Training"
+    icon: "/images/training.svg"
+    content: "Management training, capacity building, organizational improvement"
+  - name: "Technology"
+    icon: "/images/tech.svg"
+    content: "We provide technology services in connectivity and We are responsible for project managing the design, implementation and production of our services, using a wide range of industry standard protocols and technology to meet the needs of our enterprise customers"
+  - name: "Business Advisory"
+    icon: "/images/advisory.svg"
+    content: "Our Business Advisory team develops and offers tailored, innovative and comprehensive solutions for specific client business needs that may not require the expression of opinions based on professional standards"
+  - name: "Investment Advisory"
+    icon: "/images/business.svg"
+    content: "Providing independent, strategic investment advice to family offices"
 
 # services
 services:
