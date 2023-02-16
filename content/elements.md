@@ -35,7 +35,7 @@ Strikethrough uses two tildes. ~~Scratch this.~~
 
 ### Link
 
-[I'm an inline-style link](https://www.google.com)
+[I'm an inline-style link](https://clydeandoakcapital.com/)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
@@ -51,9 +51,9 @@ example.com (but not on Github, for example).
 
 Some text to show that the reference links can follow later.
 
-[arbitrary case-insensitive reference text]: https://www.themefisher.com
-[1]: https://gethugothemes.com
-[link text itself]: https://www.getjekyllthemes.com
+[arbitrary case-insensitive reference text]: https://clydeandoakcapital.com/
+[1]: https://clydeandoakcapital.com/
+[link text itself]: https://clydeandoakcapital.com/
 
 ---
 
